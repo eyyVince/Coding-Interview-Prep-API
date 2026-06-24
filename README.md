@@ -1,4 +1,4 @@
-# 🎓 Interview Prep API
+# 🎓 Interview Prep API (still in development)
 
 A backend API for serving coding interview problems, running test cases, and tracking submissions. Perfect for building a study platform or interview prep tool.
 
